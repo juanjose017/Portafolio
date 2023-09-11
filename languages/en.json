@@ -1,17 +1,17 @@
 {
     "profile":{
-        "rol": "Ingles Desarrollador Front-end",
-        "description":"Ingles descricion especifica"
+        "rol": "systems engineer ",
+        "description":"I am a recently graduated systems engineer with a solid base of technical knowledge, problem solving skills and a proactive attitude. I am ready to apply my skills and contribute to the success of projects, bringing innovation and efficiency to the organizations that give me the opportunity to grow and develop professionally."
     },
     "experience":{
-        "first-job-title": "InglesDesarrollador Back-end",
-        "first-job-dates": "Enero 1995 - Enero 2000",
-        "first-job-description": "Lorem",
-        "second-job-title": "InglesDesarrollador Back-end",
-        "second-job-dates": "Enero 1995 - Enero 2000",
-        "second-job-description": "Lorem",
-        "last-job-title": "InglesDesarrollador Back-end",
-        "last-job-dates": "Enero 1995 - Enero 2000",
+        "first-job-title": "Professional intern in systems engineering ",
+        "first-job-dates": "July 2021 - December 2021",
+        "first-job-description": "Perform management and development tasks in the projects of the digital applications and process solutions team.",
+        "second-job-title": "Domino's Pizza Delivery Man",
+        "second-job-dates": "February 2022 - March 2023",
+        "second-job-description": "As a Domino's pizza delivery person I had the following responsibilities: Preparation and Organization, Safe Delivery, Customer Service, Payment Handling and Vehicle Maintenance.",
+        "last-job-title": "Freelance Front End Developer",
+        "last-job-dates": "March 2023 - Current",
         "last-job-description": "Lorem"
     }
 }

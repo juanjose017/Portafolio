@@ -1,17 +1,17 @@
 {
-    "profile":{
-        "rol": "Desarrollador Front-end",
-        "description":"descricion especifica"
+    "profile": {
+        "rol": "Ingeniero en Sistemas",
+        "description": "Soy un ingeniero en sistemas recien graduado con una solida base de conocimientos tecnicos, habilidades de resolucion de problemas y una actitud proactiva. Estoy listo para aplicar mis habilidades y contribuir al exito de proyectos, aportando innovacion y eficiencia  a las organizaciones que me brinden la oportunidad de crecer y desarrollarme profesionalmente"
     },
-    "experience":{
-        "first-job-title": "Desarrollador Back-end",
-        "first-job-dates": "Enero 1995 - Enero 2000",
-        "first-job-description": "Lorem",
-        "second-job-title": "Desarrollador Back-end",
-        "second-job-dates": "Enero 1995 - Enero 2000",
-        "second-job-description": "Lorem",
-        "last-job-title": "Desarrollador Back-end",
-        "last-job-dates": "Enero 1995 - Enero 2000",
-        "last-job-description": "Lorem"
+    "experience": {
+        "first-job-title": "Practicante Profesional Ingeniero de Sistemas",
+        "first-job-dates": "Julio 2021 - Diciembre 2021",
+        "first-job-description": "Desempeñe labores de gestion y desarrollo en los proyectos del equipo de aplicaciones digitales y solucion de procesos",
+        "second-job-title": "Domiciliario Domino's Pizza",
+        "second-job-dates": "Febrero 2022 - Marzo 2023",
+        "second-job-description": "Como domiciliario en domino's pizza tuve las siguientes responsabilidades: Preparacion y Organizacion, Entrega Segura, Servicio al Cliente, Manejo de Pagos y Mantenimiento del vehiculo",
+        "last-job-title": "Desarrollador Front-end Independiente",
+        "last-job-dates": "Marzo 2023",
+        "last-job-description": "As a freelancer I have had the opportunity to work and strengthen the following aspects: Software Development, Systems Design, Web Development and Technology Consulting."
     }
 }
