@@ -1,0 +1,17 @@
+{
+    "profile":{
+        "rol": "Desarrollador Front-end",
+        "description":"descricion especifica"
+    },
+    "experience":{
+        "first-job-title": "Desarrollador Back-end",
+        "first-job-dates": "Enero 1995 - Enero 2000",
+        "first-job-description": "Lorem",
+        "second-job-title": "Desarrollador Back-end",
+        "second-job-dates": "Enero 1995 - Enero 2000",
+        "second-job-description": "Lorem",
+        "last-job-title": "Desarrollador Back-end",
+        "last-job-dates": "Enero 1995 - Enero 2000",
+        "last-job-description": "Lorem"
+    }
+}

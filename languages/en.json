@@ -1,0 +1,17 @@
+{
+    "profile":{
+        "rol": "Ingles Desarrollador Front-end",
+        "description":"Ingles descricion especifica"
+    },
+    "experience":{
+        "first-job-title": "InglesDesarrollador Back-end",
+        "first-job-dates": "Enero 1995 - Enero 2000",
+        "first-job-description": "Lorem",
+        "second-job-title": "InglesDesarrollador Back-end",
+        "second-job-dates": "Enero 1995 - Enero 2000",
+        "second-job-description": "Lorem",
+        "last-job-title": "InglesDesarrollador Back-end",
+        "last-job-dates": "Enero 1995 - Enero 2000",
+        "last-job-description": "Lorem"
+    }
+}
